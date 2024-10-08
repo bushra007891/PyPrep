@@ -37,32 +37,32 @@
    - Types of Functions
    - Understanding Recursion
 
-7. **File Input/Output**
+7. **[File Input/Output](https://github.com/bushra007891/PyPrep/tree/main/File%20Input%20%26%20Output)**
    - Working with Files
    - Reading and Writing Files
    - File Modes
 
-8. **Object-Oriented Programming**
+8. **[Object-Oriented Programming](https://github.com/bushra007891/PyPrep/tree/main/Object-Oriented%20Programming)**
    - Classes and Objects
    - Inheritance and Polymorphism
    - Class Attributes and Methods
 
-9. **Advanced Python Concepts**
+9. **[Advanced Python Concepts](https://github.com/bushra007891/PyPrep/tree/main/Advanced%20Python%20Concepts)**
    - Exception Handling
    - Lambda Functions and Functional Programming
    - Working with Virtual Environments
 
 10. **[Main Projects](https://github.com/bushra007891/PyPrep/tree/main/Main%20Projects)** 🚀
-    - [Snake, Water, Gun Game](#) : A fun game where you can play against the computer.
-    - [The Perfect Guess](#) : A guessing game that tests your luck and logic.
-    - [Jarvis - Personal Assistant](#) : A personal assistant program that can help automate tasks.
-    - [Auto Reply AI Chatbot](#) : A chatbot that responds to messages automatically.
+    - Snake, Water, Gun Game : A fun game where you can play against the computer.
+    - The Perfect Guess : A guessing game that tests your luck and logic.
+    - Jarvis - Personal Assistant : A personal assistant program that can help automate tasks.
+    - Auto Reply AI Chatbot : A chatbot that responds to messages automatically.
 
 11. **[Other Projects](https://github.com/bushra007891/PyPrep/tree/main/Other%20Projects)** 🌟
-    - [Project 1 Name](#) : Brief description of the project.
-    - [Project 2 Name](#) : Brief description of the project.
-    - [Project 3 Name](#) : Brief description of the project.
-    - [Project 4 Name](#) : Brief description of the project.
+    - Project 1 Name : Brief description of the project.
+    - Project 2 Name : Brief description of the project.
+    - Project 3 Name : Brief description of the project.
+    - Project 4 Name : Brief description of the project.
 
 ---
 
@@ -74,7 +74,7 @@ This section contains a collection of questions related to each topic. These que
 ## Practice Sets 📝
 The practice sets provide hands-on coding exercises to apply what I've learned in Python. Each set includes problems to solve and challenges to enhance my programming skills.
 
-- [View Practice Sets File](#) 
+- [View Practice Sets File](https://github.com/bushra007891/PyPrep/tree/main/Practice%20Sets) 
 
 ---
 
