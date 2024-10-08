@@ -59,11 +59,13 @@
     - Auto Reply AI Chatbot : A chatbot that responds to messages automatically.
 
 11. **[Other Projects](https://github.com/bushra007891/PyPrep/tree/main/Other%20Projects)** 🌟
-    - Project 1 Name : Brief description of the project.
-    - Project 2 Name : Brief description of the project.
-    - Project 3 Name : Brief description of the project.
-    - Project 4 Name : Brief description of the project.
-
+    - Directory Explorer :  A program to explore directories and list files.
+    - Greet according to time program :  A program that greets the user based on the current time.
+    - Hindi to English Dictionary :  A dictionary program to translate Hindi words to English.
+    - Random jokes generator :  A program that generates random jokes.
+    - Stone paper scissor game :  A Python implementation of the classic Stone-Paper-Scissors game.
+    - Text to speech generator :  A program that converts text to speech.
+    - QuickQR Generator Program :  A program to generate QR codes quickly and easily.
 ---
 
 ## Question File ❓
