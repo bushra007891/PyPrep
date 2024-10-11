@@ -66,6 +66,8 @@
     - Stone paper scissor game :  A Python implementation of the classic Stone-Paper-Scissors game.
     - Text to speech generator :  A program that converts text to speech.
     - QuickQR Generator Program :  A program to generate QR codes quickly and easily.
+    - Random Password Generator: A Python program to generate secure random passwords.
+
 ---
 
 ## Question File ❓
