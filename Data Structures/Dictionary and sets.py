@@ -95,7 +95,7 @@ print(fruits)
 # Unique Elements: 
 '''A set cannot contain duplicate values.'''
 
-# Mutable: 
+# Immutable: 
 '''You can add or remove items from a set.'''
 
 # No Indexing: 
