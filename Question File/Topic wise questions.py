@@ -117,3 +117,11 @@ What is typecasting, and why is it important in Python programming?
 Explain the difference between implicit and explicit typecasting. Provide examples for both.
 Write a Python program to convert a float number to an integer using explicit typecasting.
 How would you convert the string "50" to an integer and add it to the number 20? Write the code for it.'''
+
+# File I/O in Python (Input/Output)
+# --- 5 Questions for Practice ---
+'''What are the different modes in which you can open a file in Python?
+How can you read the entire content of a file?
+What is the difference between writing ("w") and appending ("a") to a file?
+How do you ensure a file is automatically closed after performing file operations?
+How do you handle errors when working with files in Python?'''
