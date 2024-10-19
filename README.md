@@ -67,9 +67,14 @@
     - Text to speech generator :  A program that converts text to speech.
     - QuickQR Generator Program :  A program to generate QR codes quickly and easily.
     - Random Password Generator: A Python program to generate secure random passwords.
-
 ---
 
+## Replit Projects 🌐
+You can also view all of these projects on my Replit account:
+
+- [Replit Project Link](https://replit.com/@bushra007891) 
+
+---
 ## Question File ❓
 This section contains a collection of questions related to each topic. These questions are designed to test my understanding and help reinforce key concepts.
 
